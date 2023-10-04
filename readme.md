@@ -33,6 +33,7 @@
 - data_loader: a class for loading data.
 - fold0-fold5: evaluation file for further analysis.
 - case_analysis: contains some files for case analysis.
+- ST1: supplementary materials.
 
 ### Run steps
 
